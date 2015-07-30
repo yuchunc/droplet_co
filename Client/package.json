@@ -1,0 +1,11 @@
+{
+  "name": "droplet_co",
+  "version": "1.0.0",
+  "description": "Droplet Company Website",
+  "main": "js/app.js",
+  "author": "Mickey Chen",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-babel": "^5.1.0"
+  }
+}
